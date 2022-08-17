@@ -2,8 +2,8 @@
 #include <cmath>
 #include <cstdlib>
 #include <ctime>
-// caracter out (cout)
-//stream (secuence of caracteres). standard output (console, terminal window)
+// character out (cout)
+//stream (sequence of characters). standard output (console, terminal window)
 // << (stream insertion operator: operator to inserting something into the output stream)
 using namespace std;
 
